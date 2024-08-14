@@ -29,6 +29,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/car-dealer-app.git
+   https://github.com/UlviAzizli/car-dealer-app
    cd car-dealer-app
    ```
